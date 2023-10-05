@@ -54,10 +54,9 @@ Here are some ideas to get you started:
 
 ## Programming languages, frameworks and other tools
 
-<div>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,jquery,bootstrap,php,matlab,mysql,cs,hibernate,spring,maven,vscode,visualstudio,unity,powershell,postman,idea,git,github,discord)](https://skillicons.dev)
 
 
-  
 </div>
