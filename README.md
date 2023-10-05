@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 * 🌍🏠 Location: Born, raised, and residing in Norway.
 * 📈👨‍🏫 Experience: Strong academic foundation accompanied by hands-on experience as a Teacher Assistant in Programming and Discrete Mathematics at OsloMet.
 * 📧📫  Contact: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nicoldeepsingh) or drop me an email at nicoldeep@gmail.com.
- <!--*🌀 Soft Skills: Known for strong communication, leadership, problem-solving, and multitasking capabilities, reinforced through various roles such as a club football referee, volleyball club trainer, restaurant employee, and mentor. -->
+ <!--🌀 Soft Skills: Known for strong communication, leadership, problem-solving, and multitasking capabilities, reinforced through various roles such as a club football referee, volleyball club trainer, restaurant employee, and mentor. -->
 
 
 
