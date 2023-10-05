@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Nicoldeep Singh 
+# Nicoldeep Singh - Software Engineer student
 
 <br>
 
@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-* 📚 I am currently in my second year of a Software Engineering bachelor's degree at Oslomet.
-* 📫 You can reach me at Linkedin og nicoldeep@gmail.com
-* 🌍 I was born, raised and live in Norway.
-* 👨‍🏫 I have a strong background as a Teacher Assistant in Programming and Discrete Mathematics at Oslomet.
+* 📚🎓 Education: I am currently in my second year of a Software Engineering bachelor's degree at Oslomet.
+* 🌍🏠 Location: Born, raised, and residing in Norway.
+* 📈👨‍🏫 Experience: Strong academic foundation accompanied by hands-on experience as a Teacher Assistant in Programming and Discrete Mathematics at OsloMet.
+* 📧📫  Contact: Feel free to connect with me on LinkedIn or drop me an email at nicoldeep@gmail.com.
+* <!-- 🌀 Soft Skills: Known for strong communication, leadership, problem-solving, and multitasking capabilities, reinforced through various roles such as a club football referee, volleyball club trainer, restaurant employee, and mentor. -->
 
 
 
