@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,jquery,bootstrap,php,matlab,mysql,cs,hibernate,spring,maven,vscode,visualstudio, unity, powershell, postman, idea,git,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,jquery,bootstrap,php,matlab,mysql,cs,hibernate,spring,maven,vscode,visualstudio,unity,powershell,postman, idea,git,github,discord)](https://skillicons.dev)
 
 
   
