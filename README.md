@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-* 📚🎓 **Education**: I am currently in my second year of a  *Software Engineering* bachelor's degree at Oslomet.
+* 📚🎓 **Education**: I am currently in my third year of a  *Software Engineering* bachelor's degree at Oslomet.
 * 🌍🏠 **Location**: Born, raised, and residing in Norway.
 * 📈👨‍🏫 **Experience**: Strong academic foundation accompanied by hands-on experience as a Teacher Assistant in Programming and Discrete Mathematics at OsloMet.
 * 📧📫  **Contact**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nicoldeepsingh) or drop me an email at nicoldeep@gmail.com.
